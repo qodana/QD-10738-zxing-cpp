@@ -17,3 +17,8 @@ CMakeLists.txt.user
 
 # JetBrain (AndroidStudio, clion)
 .idea
+
+.env
+qodana-results
+qodana.log
+*.sarif.json
