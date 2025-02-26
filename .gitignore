@@ -25,3 +25,4 @@ qodana.log
 cmake-build*
 qodana
 .vscode
+build
