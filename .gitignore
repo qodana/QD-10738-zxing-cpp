@@ -22,3 +22,6 @@ CMakeLists.txt.user
 qodana-results
 qodana.log
 *.sarif.json
+cmake-build*
+qodana
+.vscode
